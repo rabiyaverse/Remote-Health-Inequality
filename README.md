@@ -1,15 +1,48 @@
-# Remote-Health-Inequality
-Comparative data analysis of health inequity in Australia and Indonesia through the Social Determinants of Health framework.
-remote-health-inequity
+# Remote-Health-Equity: Australia and Indonesia
 
+Comparative data analysis of health inequity in Australia and Indonesia through the Social Determinants of Health framework.
 *A reflection following the WHO Academy course, Social Determinants of Health Equity: Concepts and Evidence.*
 
-Joining the WHO Academy's work on social determinants of health strengthened my understanding of something I'd always known abstractly but never quite pinned down: health inequity is shaped by structural conditions, not individual behaviour. It's easy to talk about that as a principle. It's harder to see it in numbers. So I decided to go looking for the numbers — in two countries I know well, Australia and Indonesia.
+Joining the WHO Academy's work on social determinants of health strengthened my understanding of something I'd always known abstractly but never quite pinned down: health inequity is shaped by structural conditions, not individual behaviour. It's easy to talk about that as a principle. It's harder to see it in numbers. So I decided to go looking for the numbers in two countries I know well, Australia and Indonesia.
 
-## The Same Pattern, Two Very Different Countries
+## Key Findings
 
-Australia is a high-income country with universal healthcare. Indonesia is a large, lower-middle-income archipelago still building out its health system. On paper, they have almost nothing in common economically. But when you look at how care is distributed within each country, the same shape appears.
+This comparative analysis identified six key findings that illustrate how structural conditions shape health inequities in both Australia and Indonesia.
 
-In Australia, life expectancy drops the further you get from a major city — by 1 to 2 years in regional areas, and by up to 7 years in remote ones. For Aboriginal and Torres Strait Islander communities, who are disproportionately remote, the gap widens further: an 8-year national life expectancy difference that geography alone can't explain.
+### 1. Geographic location remains a major determinant of health
 
-In Indonesia, the pattern shows up as infrastructure. Java has 1,622 hospitals. Papua has 73. Maluku has 53. And even where hospitals exist in remote provinces, they're more likely to be lower-capability facilities, meaning the presence of a hospital doesn't tell you much about what care is actually available inside it. In Maluku specifically, 65% of primary clinics (puskesmas) lack a physician, and nearly half lack a midwife.
+Despite Australia's universal healthcare system and Indonesia's expanding Universal Health Coverage (JKN), people living in rural and remote areas consistently experience poorer access to healthcare services and worse health outcomes than those living in metropolitan areas.
+
+---
+
+### 2. Health inequity reflects unequal distribution of resources rather than national wealth
+
+Australia and Indonesia differ substantially in economic development, yet both display remarkably similar patterns of inequity. Healthcare infrastructure, specialist services, and health professionals remain concentrated in major population centres, leaving remote communities comparatively underserved.
+
+---
+
+### 3. Workforce shortages amplify geographic disadvantage
+
+Evidence from Indonesia shows that many primary healthcare facilities in remote provinces operate without essential health professionals. Similarly, Australia continues to experience shortages of general practitioners and specialists outside metropolitan areas despite longstanding rural workforce initiatives.
+
+---
+
+### 4. Healthcare accessibility is more than physical distance
+
+Accessibility depends not only on the number of hospitals or clinics but also on travel time, transportation infrastructure, workforce availability, and service capability. Simply increasing the number of facilities does not guarantee equitable access if those facilities lack trained personnel or advanced services.
+
+---
+
+### 5. Digital health can reduce—but not eliminate—health inequities
+
+Telehealth and digital health technologies can extend healthcare reach, but they cannot replace physical infrastructure, reliable internet connectivity, or an adequately distributed healthcare workforce. Digital solutions are most effective when implemented alongside broader structural investments.
+
+---
+
+### 6.  Upstream policy interventions are essential
+
+The evidence consistently suggests that sustainable improvements require policies addressing workforce retention, equitable funding allocation, infrastructure investment, and locally appropriate service models rather than relying solely on downstream healthcare delivery.
+
+---
+
+> **Key takeaway:** Despite vast differences in national income and health system capacity, Australia and Indonesia demonstrate similar patterns of geographic health inequity. These disparities are driven less by individual behaviour than by structural decisions about where healthcare resources, funding, and workforce are distributed.
