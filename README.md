@@ -1,6 +1,7 @@
 # Remote-Health-Equity: Australia and Indonesia
 
 Comparative data analysis of health inequity in Australia and Indonesia through the Social Determinants of Health framework.
+
 *A reflection following the WHO Academy course, Social Determinants of Health Equity: Concepts and Evidence.*
 
 Joining the WHO Academy's work on social determinants of health strengthened my understanding of something I'd always known abstractly but never quite pinned down: health inequity is shaped by structural conditions, not individual behaviour. It's easy to talk about that as a principle. It's harder to see it in numbers. So I decided to go looking for the numbers in two countries I know well, Australia and Indonesia.
