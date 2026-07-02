@@ -10,40 +10,15 @@ Joining the WHO Academy's work on social determinants of health strengthened my 
 
 This comparative analysis identified six key findings that illustrate how structural conditions shape health inequities in both Australia and Indonesia.
 
-### 1. Geographic location remains a major determinant of health
+## 📊 Key Findings
 
-Despite Australia's universal healthcare system and Indonesia's expanding Universal Health Coverage (JKN), people living in rural and remote areas consistently experience poorer access to healthcare services and worse health outcomes than those living in metropolitan areas.
+Despite substantial differences in economic development and health system capacity, Australia and Indonesia exhibit remarkably similar patterns of geographic health inequity. Across both countries, healthcare accessibility is shaped less by individual behaviour than by the unequal distribution of healthcare infrastructure, workforce, and resources. These findings reinforce the Social Determinants of Health (SDOH) framework, demonstrating that equitable health outcomes require upstream policy interventions addressing structural barriers rather than downstream healthcare services alone.
 
----
-
-### 2. Health inequity reflects unequal distribution of resources rather than national wealth
-
-Australia and Indonesia differ substantially in economic development, yet both display remarkably similar patterns of inequity. Healthcare infrastructure, specialist services, and health professionals remain concentrated in major population centres, leaving remote communities comparatively underserved.
-
----
-
-### 3. Workforce shortages amplify geographic disadvantage
-
-Evidence from Indonesia shows that many primary healthcare facilities in remote provinces operate without essential health professionals. Similarly, Australia continues to experience shortages of general practitioners and specialists outside metropolitan areas despite longstanding rural workforce initiatives.
-
----
-
-### 4. Healthcare accessibility is more than physical distance
-
-Accessibility depends not only on the number of hospitals or clinics but also on travel time, transportation infrastructure, workforce availability, and service capability. Simply increasing the number of facilities does not guarantee equitable access if those facilities lack trained personnel or advanced services.
-
----
-
-### 5. Digital health can reduce—but not eliminate—health inequities
-
-Telehealth and digital health technologies can extend healthcare reach, but they cannot replace physical infrastructure, reliable internet connectivity, or an adequately distributed healthcare workforce. Digital solutions are most effective when implemented alongside broader structural investments.
-
----
-
-### 6.  Upstream policy interventions are essential
-
-The evidence consistently suggests that sustainable improvements require policies addressing workforce retention, equitable funding allocation, infrastructure investment, and locally appropriate service models rather than relying solely on downstream healthcare delivery.
-
----
-
-> **Key takeaway:** Despite vast differences in national income and health system capacity, Australia and Indonesia demonstrate similar patterns of geographic health inequity. These disparities are driven less by individual behaviour than by structural decisions about where healthcare resources, funding, and workforce are distributed.
+| Finding | Evidence |
+|---------|----------|
+| 🌍 Geography remains a major determinant of health | Rural and remote populations consistently experience poorer healthcare access and health outcomes than metropolitan populations. |
+| ⚖️ Resources are unevenly distributed | Hospitals, specialist services, and healthcare workers are concentrated in major population centres despite greater needs elsewhere. |
+| 👩‍⚕️ Workforce shortages amplify inequity | Remote areas experience persistent shortages of physicians, specialists, and other essential healthcare professionals. |
+| 🚑 Accessibility extends beyond physical distance | Travel time, transportation, workforce availability, and facility capability collectively determine healthcare accessibility. |
+| 💻 Digital health is supportive, not sufficient | Telehealth improves reach but cannot replace physical infrastructure, workforce availability, or reliable connectivity. |
+| 📈 Structural policies matter most | Sustainable improvements require equitable funding, workforce retention, and geographically appropriate service models. |
