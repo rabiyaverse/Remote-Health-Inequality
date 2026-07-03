@@ -22,3 +22,36 @@ Despite substantial differences in economic development and health system capaci
 | 🚑 Accessibility extends beyond physical distance | Travel time, transportation, workforce availability, and facility capability collectively determine healthcare accessibility. |
 | 💻 Digital health is supportive, not sufficient | Telehealth improves reach but cannot replace physical infrastructure, workforce availability, or reliable connectivity. |
 | 📈 Structural policies matter most | Sustainable improvements require equitable funding, workforce retention, and geographically appropriate service models. |
+
+## 🇦🇺 Australia
+
+Australia has a universal healthcare system through Medicare, yet significant geographic inequities remain. Rural and remote communities consistently experience poorer access to healthcare services, contributing to worse health outcomes than those living in major cities.
+
+| Indicator | Value | Source |
+|-----------|------:|-------|
+| Population living in rural/remote areas | 27% | AIHW (2025) |
+| Life expectancy gap (Regional vs Major Cities) | 1–2 years | AIHW (2025) |
+| Life expectancy gap (Remote vs Major Cities) | Up to 7 years | AIHW (2025) |
+| Indigenous life expectancy gap | ~8 years | AIHW (2024) |
+
+### Key Insight
+
+These findings suggest that universal health coverage alone does not eliminate geographic inequities. Physical distance, workforce shortages, and limited specialist availability continue to reduce healthcare accessibility outside metropolitan areas.
+
+## 🇮🇩 Indonesia
+
+Indonesia has achieved substantial progress toward Universal Health Coverage through JKN. However, healthcare resources remain heavily concentrated in Java, while eastern provinces continue to experience limited infrastructure and workforce shortages.
+
+| Indicator | Value | Source |
+|-----------|------:|-------|
+| Hospitals in Java | 1,622 | JHPM (2025) |
+| Hospitals in Papua | 73 | JHPM (2025) |
+| Hospitals in Maluku | 53 | JHPM (2025) |
+| Puskesmas without physicians (Maluku) | 65% | PLOS (2023) |
+| Puskesmas without midwives (Maluku) | 49% | PLOS (2023) |
+| Life expectancy (DKI Jakarta) | 78.02 years | BPS |
+| Life expectancy (Papua) | 67.59 years | BPS |
+
+### Key Insight
+
+The findings indicate that healthcare accessibility is influenced not only by the availability of facilities but also by workforce distribution, service capability, and the logistical challenges associated with Indonesia's archipelagic geography.
