@@ -51,8 +51,8 @@ Indonesia has achieved substantial progress toward Universal Health Coverage thr
 | Hospitals in Maluku | 53 | JHPM (2025) |
 | Puskesmas without physicians (Maluku) | 65% | PLOS (2023) |
 | Puskesmas without midwives (Maluku) | 49% | PLOS (2023) |
-| Life expectancy (DKI Jakarta) | 78.02 years | BPS |
-| Life expectancy (Papua) | 67.59 years | BPS |
+| Life expectancy gap between provinces(DKI Jakarta-Papua) | 11 years | BPS |
+
 
 ### Key Insight
 
