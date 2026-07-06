@@ -44,14 +44,14 @@ These findings suggest that universal health coverage alone does not eliminate g
 
 Indonesia has achieved substantial progress toward Universal Health Coverage through JKN. However, healthcare resources remain heavily concentrated in Java, while eastern provinces continue to experience limited infrastructure and workforce shortages.
 
-| Indicator | Value | Population | Hospitals per million | Source | 
-|-----------|------|-------|-------|-------:|-----| 
-| Hospitals in Java | 1,622 | 139,686,700 | 11.6| JHPM (2025) |
-| Hospitals in Papua | 73 | 4,303,707 | 17 | JHPM (2025) |
-| Hospitals in Maluku | 53 | 1,848,923 | 28.7 |JHPM (2025) |
-| Puskesmas without physicians (Maluku) | 65% | PLOS (2023) |
-| Puskesmas without midwives (Maluku) | 49% | PLOS (2023) |
-| Life expectancy gap between provinces (DKI Jakarta-Papua) | 11 years | BPS |
+| Indicator | Value | Population | Hospitals per million | Source |
+|-----------|------:|-----------:|----------------------:|--------|
+| Hospitals in Java | 1,622 | 139,686,700 | 11.6 | JHPM (2025) |
+| Hospitals in Papua | 73 | 4,303,707 | 17.0 | JHPM (2025) |
+| Hospitals in Maluku | 53 | 1,848,923 | 28.7 | JHPM (2025) |
+| Puskesmas without physicians (Maluku) | 65% | — | — | PLOS (2023) |
+| Puskesmas without midwives (Maluku) | 49% | — | — | PLOS (2023) |
+| Life expectancy gap (DKI Jakarta–Papua) | 11 years | — | — | BPS |
 
 
 ### Key Insight
